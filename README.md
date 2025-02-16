@@ -9,7 +9,7 @@
 ## 🔧 Tech Stack
 
 - **Languages:** C#, SQL, Web Languages (Html, css, javascript frameworks), ZPL (Zebra Printer Language), Yamls, XMLs, JSONs
-- **Frameworks:** .NET (WinForms, ASP.NET Core), Entity Framework, DevExpress Framework
+- **Frameworks:** .NET (WinForms, ASP.NET Core), Entity Framework, DevExpress Framework (WinForms, XPO, DevExtreme-Web)
 - **DevOps & Tools:** Docker and Docker Compose, Kubernetes, Rancher, Gitlab CI/CD, Linux Based Systems, Configuration systems, ISS hosting, Selfhosting API's, Cake Build and packages.
 - **Databases & Caches:** PostgreSQL, MSSQL, MYSQL, Oracle, MongoDB, Redic (Cache), Distributed Caches, Memory Cache, Response Cache, Rate Limitting, Kestrel
 - **Content:** Image processing, computer vision, scanning tools and packages such as AForge, Leptonica, Tesseract OCR, EMGU.CV, Nicomsoft OCR, Iron OCR, Zxing.NET (Barcode read or histogram binarizers etc.), ZoomAndPan, Windows Image Acquisition
