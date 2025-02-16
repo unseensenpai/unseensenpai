@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Said Gülmez]
+# Hi there! 👋 I'm Said Gülmez
 
 🚀 **Computer Engineer | Software Development Engineer | .NET & DevOps Enthusiast**
 
